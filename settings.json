@@ -1,0 +1,4 @@
+{
+  "broker_address":"192.168.0.250",
+  "broker_port": 1883
+}
